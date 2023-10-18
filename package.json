@@ -1,0 +1,19 @@
+{
+  "name": "creating-server",
+  "version": "1.0.0",
+  "description": "my backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhjaykar1603/creating-server.git"
+  },
+  "author": "saurabh jaykar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhjaykar1603/creating-server/issues"
+  },
+  "homepage": "https://github.com/saurabhjaykar1603/creating-server#readme"
+}
