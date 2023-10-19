@@ -4,7 +4,8 @@
   "description": "my backend server",
   "main": "index.js",
   "scripts": {
-    "saurabh": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/saurabhjaykar1603/creating-server/issues"
   },
-  "homepage": "https://github.com/saurabhjaykar1603/creating-server#readme"
+  "homepage": "https://github.com/saurabhjaykar1603/creating-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
